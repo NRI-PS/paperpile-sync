@@ -1,22 +1,16 @@
-- name: Install dependencies
-  run: |
-    python -m pip install --upgrade pip
-    pip install -r requirements.txtname: Convert Paperpile BibTeX
+name: Convert Paperpile BibTeX
 
 on:
-  schedule:
-    - cron: "0 21 * * *"  # JST 06:00
   workflow_dispatch:
+  schedule:
+    - cron: "0 21 * * *"
 
 jobs:
   convert:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Set up Python
@@ -27,15 +21,15 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install pandas==2.2.2 bibtexparser==1.4.1
 
-      - name: Convert BibTeX to CSV and JSON
+      - name: Convert BibTeX
         run: python scripts/bib_to_csv.py
 
-      - name: Commit generated files
+      - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/library_all.csv data/library_all.json
-          git diff --cached --quiet || git commit -m "Update generated CSV and JSON"
+          git add data/*.csv data/*.json
+          git diff --cached --quiet || git commit -m "auto update"
           git push
