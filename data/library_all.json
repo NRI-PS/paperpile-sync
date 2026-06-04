@@ -3822,6 +3822,19 @@
     "abstract":""
   },
   {
+    "id":"Purves2022-PublicTrustInstitutionalLegitimacyAndTheUseOfAlgorithmsInCriminalJustice-..-sg",
+    "type":"article",
+    "title":"Public trust, institutional legitimacy,, the use of algorithms in criminal justice",
+    "authors":"Purves, Duncan, Davis, Jeremy",
+    "year":"2022",
+    "journal":"Public Affairs Quarterly",
+    "booktitle":"",
+    "doi":"10.5406\/21520542.36.2.03",
+    "url":"https:\/\/dx.doi.org\/10.5406\/21520542.36.2.03",
+    "keywords":"",
+    "abstract":"Abstract A common criticism of the use of algorithms in criminal justice is that algorithms, their determinations are in some sense “opaque”—that is, difficult or impossible to understand, whether because of their complexity or because of intellectual property protections. Scholars have noted some key problems with opacity, including that opacity can mask unfair treatment, threaten public accountability. In this paper, we explore a different but related concern with algorithmic opacity, which centers on the role of public trust in grounding the legitimacy of criminal justice institutions. We argue that algorithmic opacity threatens the trustworthiness of criminal justice institutions, which in turn threatens their legitimacy. We first offer an account of institutional trustworthiness before showing how opacity threatens to undermine an institution's trustworthiness. We then explore how threats to trustworthiness affect institutional legitimacy. Finally, we offer some policy recommendations to mitigate the threat to trustworthiness posed by the opacity problem."
+  },
+  {
     "id":"Baumer1978-ResearchOnFearOfCrimeInTheUnitedStates-..-cw",
     "type":"article",
     "title":"Research on fear of crime in the United States",
@@ -3963,6 +3976,32 @@
     "url":"http:\/\/dx.doi.org\/10.1177\/0269758014547995",
     "keywords":"international Review of Victimology",
     "abstract":"Victimization surveys not only represent a vital data source for estimating the amount of crime within a social entity but also provide victimological researchers with valuable information, e.g. about the social distribution, consequences of victimization experiences. To assure adequate interpretation of victimization survey data, knowledge about the data-generating process in general, the measurement of victimization experiences in particular is essential. In 2010, a new round of the International Crime, Victim Survey (ICVS-2) was conducted to explore the different effects of telephone, online victimization surveys. To understand the processes behind these, this study follows a theory-driven approach. Based on a four-step cognitive model of survey response, hypotheses about expected mode effects on the response behavior were developed. For hypothesis testing, a hierarchical modeling strategy based on logistic regressions was applied to the ICVS-2 data. As hypothesized, no effects of survey mode on the response process could be identified for most victimization items. After controlling for sampling frame, unit non-response, the effects of survey administration mode on the propensity of reporting victimization vanished. The sensitive sexual victimization item represented the only exception. In this case, the remaining mode effect could be fully accounted for by systematically differing item non-response rates between modes."
+  },
+  {
+    "id":"Purves2022-FairnessInAlgorithmicPolicing-..-yk",
+    "type":"article",
+    "title":"Fairness in algorithmic policing",
+    "authors":"Purves, Duncan",
+    "year":"2022",
+    "journal":"Journal of the American Philosophical Association",
+    "booktitle":"",
+    "doi":"10.1017\/apa.2021.39",
+    "url":"http:\/\/dx.doi.org\/10.1017\/apa.2021.39",
+    "keywords":"fairness; consent; policing; algorithms; artificial intelligence; data",
+    "abstract":"AbstractPredictive policing, the practice of using of algorithmic systems to forecast crime, is heralded by police departments as the new frontier of crime analysis. At the same time, it is opposed by civil rights groups, academics,, media outlets for being ‘biased’, therefore discriminatory against communities of color. This paper argues that the prevailing focus on racial bias has overshadowed two normative factors that are essential to a full assessment of the moral permissibility of predictive policing: fairness in the social distribution of the benefits, burdens of policing as well as the distinctive role of consent in determining fair distribution. When these normative factors are given their due attention, several requirements emerge for the fair implementation of predictive policing. Among these requirements are that police departments inform, solicit buy-in from affected communities about strategic decision-making, that departments favor non-enforcement-oriented interventions."
+  },
+  {
+    "id":"Hunt2022-TheLimitsOfReallocativeAndAlgorithmicPolicing-..-hv",
+    "type":"article",
+    "title":"The limits of reallocative, algorithmic policing",
+    "authors":"Hunt, Luke William",
+    "year":"2022",
+    "journal":"Criminal Justice Ethics",
+    "booktitle":"",
+    "doi":"10.1080\/0731129x.2022.2056351",
+    "url":"http:\/\/dx.doi.org\/10.1080\/0731129X.2022.2056351",
+    "keywords":"",
+    "abstract":"Policing in many parts of the world—the United States in particular—has embraced an archetypal model: a conception of the police based on the tenets of individuated archetypes, such as the heroic police “warrior” or “guardian.” Such policing has in part motivated moves to (1) a reallocative model: reallocating societal resources such that the police are no longer needed in society (defunding, abolishing) because reform strategies cannot fix the way societal problems become manifest in (archetypal) policing;, (2) an algorithmic model: subsuming policing into technocratic judgements encoded in algorithms through strategies such as predictive policing (mitigating archetypal bias). This paper begins by considering the normative basis of the relationship between political community, policing. It then examines the justification of reallocative, algorithmic models in light of the relationship between political community, police. Given commitments to the depth, distribution of security—and proscriptions against dehumanizing strategies—the paper concludes that a nonideal-theory priority rule promoting respect for personhood (manifest in community, dignity-promoting policing strategies) is a necessary condition for the justification of the above models."
   },
   {
     "id":"Deza2023-TreatmentForMentalHealthAndSubstanceUseSpilloversToPoliceSafety-..-xv",
