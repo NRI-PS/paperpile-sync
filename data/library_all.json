@@ -155584,6 +155584,45 @@
     "abstract":"AbstractBased on the results of two research projects from the Netherlands, this paper explores how street-oriented persons adapt, use digital technologies by focussing on the changing commission of instrumental, economically motivated, street crime. Our findings show how social media are used by street offenders to facilitate or improve parts of the crime script of already existing criminal activities but also how street offenders are engaging in criminal activities not typically associated with the street, like phishing, fraud. Taken together, this paper documents how technology has permeated street life, contributed to the ‘hybridization’ of street offending in the Netherlands—i.e. offending that takes place in person, online, often at the same time."
   },
   {
+    "id":"Weir2022-CheckpointAnInnovativeProgrammeToNavigatePeopleAwayFromTheCycleOfReoffending-ARandomisedControlTrialEvaluation-..-kc",
+    "type":"article",
+    "title":"Checkpoint: An innovative Programme to navigate people away from the cycle of reoffending – A randomised control trial evaluation",
+    "authors":"Weir, Kevin, Kilili, Stephanie, Cooper, John, Crowe, Andrew, Routledge, Gillian",
+    "year":"2022",
+    "journal":"The Police Journal",
+    "booktitle":"",
+    "doi":"10.1177\/0032258x211018774",
+    "url":"http:\/\/dx.doi.org\/10.1177\/0032258X211018774",
+    "keywords":"",
+    "abstract":"This study contributes to the evidence base of police deferred prosecution schemes aimed at reducing reoffending. Durham Constabulary, UK, introduced Checkpoint, an adult deferred prosecution scheme which targets offenders entering the Criminal Justice System by providing an alternative to a criminal prosecution. Applying theories of deterrence, desistance, this paper describes the randomised control trial findings of 521 offenders randomised between 1 August 2016, 31 March 2018. The results indicate that the Checkpoint treatment cohort achieved a lower reoffending rate in comparison to the control cohort, on the basis of prevalence (10.3\\% reduction), risk of reoffending (30\\% reduction)."
+  },
+  {
+    "id":"Oswald2018-AlgorithmicRiskAssessmentPolicingModelsLessonsFromTheDurhamHARTModelAndExperimentalProportionality-..-hy",
+    "type":"article",
+    "title":"Algorithmic risk assessment policing models: lessons from the Durham HART model, ‘Experimental’ proportionality",
+    "authors":"Oswald, Marion, Grace, Jamie, Urwin, Sheena, Barnes, Geoffrey C",
+    "year":"2018",
+    "journal":"Information \\& Communications Technology Law",
+    "booktitle":"",
+    "doi":"10.1080\/13600834.2018.1458455",
+    "url":"http:\/\/dx.doi.org\/10.1080\/13600834.2018.1458455",
+    "keywords":"",
+    "abstract":"As is common across the public sector, the UK police service is under pressure to do more with less, to target resources more efficiently, take steps to identify threats proactively; for example under risk-assessment schemes such as ‘Clare’s Law’, ‘Sarah’s Law’. Algorithmic tools promise to improve a police force’s decision-making, prediction abilities by making better use of data (including intelligence), both from inside, outside the force. This article uses Durham Constabulary’s Harm Assessment Risk Tool (HART) as a case-study. HART is one of the first algorithmic models to be deployed by a UK police force in an operational capacity. Our article comments upon the potential benefits of such tools, explains the concept, method of HART, considers the results of the first validation of the model’s use, accuracy. The article then critiques the use of algorithmic tools within policing from a societal, legal perspective, focusing in particular upon substantive common law grounds for judicial review. It considers a concept of ‘experimental’ proportionality to permit the use of unproven algorithms in the public sector in a controlled, time-limited way,, as part of a combination of approaches to combat algorithmic opacity, proposes ‘ALGO-CARE’, a guidance framework of some of the key legal, practical concerns that should be considered in relation to the use of algorithmic risk assessment tools by the police. The article concludes that for the use of algorithmic tools in a policing context to result in a ‘better’ outcome, that is to say, a more efficient use of police resources in a landscape of more consistent, evidence-based decision-making, then an ‘experimental’ proportionality approach should be developed to ensure that new solutions from ‘big data’ can be found for criminal justice problems traditionally arising from clouded, non-augmented decision-making. Finally, this article notes that there is a sub-set of decisions around which there is too great an impact upon society, upon the welfare of individuals for them to be influenced by an emerging technology; to an extent, in fact, that they should be removed from the influence of algorithmic decision-making altogether."
+  },
+  {
+    "id":"Oswald2018-AlgorithmicRiskAssessmentPolicingModelsLessonsFromTheDurhamHARTModelAndExperimentalProportionality-..-te",
+    "type":"article",
+    "title":"Algorithmic risk assessment policing models: lessons from the Durham HART model, ‘Experimental’ proportionality",
+    "authors":"Oswald, Marion, Grace, Jamie, Urwin, Sheena, Barnes, Geoffrey C",
+    "year":"2018",
+    "journal":"Information \\& Communications Technology Law",
+    "booktitle":"",
+    "doi":"10.1080\/13600834.2018.1458455",
+    "url":"http:\/\/dx.doi.org\/10.1080\/13600834.2018.1458455",
+    "keywords":"",
+    "abstract":"As is common across the public sector, the UK police service is under pressure to do more with less, to target resources more efficiently, take steps to identify threats proactively; for example under risk-assessment schemes such as ‘Clare’s Law’, ‘Sarah’s Law’. Algorithmic tools promise to improve a police force’s decision-making, prediction abilities by making better use of data (including intelligence), both from inside, outside the force. This article uses Durham Constabulary’s Harm Assessment Risk Tool (HART) as a case-study. HART is one of the first algorithmic models to be deployed by a UK police force in an operational capacity. Our article comments upon the potential benefits of such tools, explains the concept, method of HART, considers the results of the first validation of the model’s use, accuracy. The article then critiques the use of algorithmic tools within policing from a societal, legal perspective, focusing in particular upon substantive common law grounds for judicial review. It considers a concept of ‘experimental’ proportionality to permit the use of unproven algorithms in the public sector in a controlled, time-limited way,, as part of a combination of approaches to combat algorithmic opacity, proposes ‘ALGO-CARE’, a guidance framework of some of the key legal, practical concerns that should be considered in relation to the use of algorithmic risk assessment tools by the police. The article concludes that for the use of algorithmic tools in a policing context to result in a ‘better’ outcome, that is to say, a more efficient use of police resources in a landscape of more consistent, evidence-based decision-making, then an ‘experimental’ proportionality approach should be developed to ensure that new solutions from ‘big data’ can be found for criminal justice problems traditionally arising from clouded, non-augmented decision-making. Finally, this article notes that there is a sub-set of decisions around which there is too great an impact upon society, upon the welfare of individuals for them to be influenced by an emerging technology; to an extent, in fact, that they should be removed from the influence of algorithmic decision-making altogether."
+  },
+  {
     "id":"Warr2000-FearOfCrimeInTheUnitedStatesAvenuesForResearchAndPolicy-..-qk",
     "type":"article",
     "title":"Fear of crime in the United States: Avenues for research, policy",
