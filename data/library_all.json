@@ -155636,6 +155636,19 @@
     "abstract":"Sexual violence is a severe, chronic occurrence around the world that has not been resolved. The stigmatized nature of sexual violence has forced victims, survivors to accept prejudiced accusations cultivated from discriminatory norms when they are never at fault nor responsible for such violations against their sexuality. LAW-U is an Artificial Intelligence (AI) chatbot that gives legal guidance to survivors of sexual violence by recommending the most relevant Supreme Court decisions to the survivors’ situations. In Thai, “LAW-U” − pronounced similarly to “ ” − means “I will wait for you”, which signifies the chatbot’s unconditional support to the user. 182 Thai Supreme Court cases of sexual violence, relating to Sections 276, 277, 278,, 279 of the Criminal Code, were used to develop Natural Language Processing (NLP) pipelines for LAW-U. Legal experts then generated mock-up dialogs from Supreme Court decisions which became the conversations used to train LAW-U. The computation of the similarity scores, the calculation of percentages of common keywords, keywords’ synonyms were completed to increase the model’s accuracy. When applying the model to the hold-out testing dataset, the accuracy was 88.89\\% for an exact match between the user’s input, the Supreme Court case − this confirmed that LAW-U was ready for real-life application. LAW-U’s unique design hopes to act as a precedent for other works at home, abroad to perpetuate awareness of sexual violence, eliminate any tolerance against these crimes by empowering sexual violence victims, survivors to reaffirm their inherent rights."
   },
   {
+    "id":"Suzuki2026-ImpactOfAntitheftNudgingSignageOnBicycleOwnersLockingBehaviorAQuasi-experimentalStudyInRuralJapan-..-ec",
+    "type":"article",
+    "title":"Impact of antitheft nudging signage on bicycle owners’ locking behavior: A quasi-experimental study in rural Japan",
+    "authors":"Suzuki, Ai, Shimada, Takahito",
+    "year":"2026",
+    "journal":"International Criminal Justice Review",
+    "booktitle":"",
+    "doi":"10.1177\/10575677251405837",
+    "url":"http:\/\/dx.doi.org\/10.1177\/10575677251405837",
+    "keywords":"",
+    "abstract":"This study tested the effectiveness of a nudge-based intervention aimed at encouraging cyclists to lock their bicycles, thereby reducing theft risk in nonurban areas of Japan. In this quasi-experimental design, four types of signs (control, social proof, perceived response cost,, reciprocity) were installed at 14 bicycle parking areas in Fukushima Prefecture. The number of locked bicycles was recorded twice before, seven times after the installation, covering the period from August to December 2024. A postintervention survey assessed whether cyclists recalled seeing the signs. Findings revealed that all signs increased the proportion of locked bicycles, with the effectiveness of each sign influenced by the initial locking rate at each location. These results provide empirical evidence confirming that nudge-based interventions can promote behavior change for crime prevention in nonurban settings in Japan. Future large-scale randomized experiments are needed to further validate, expand these findings."
+  },
+  {
     "id":"Warr2000-FearOfCrimeInTheUnitedStatesAvenuesForResearchAndPolicy-..-qk",
     "type":"article",
     "title":"Fear of crime in the United States: Avenues for research, policy",
