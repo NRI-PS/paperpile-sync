@@ -208387,6 +208387,89 @@ url = "https://eprints.bournemouth.ac.uk/41326/",
 keywords = "202607\_SAML-D\_ENDO"
 }
 
+@ARTICLE{Naik2026-RethinkingLLMOpsForFraudAndAMLBuildingACompliance-gradeLLMServingStack-..-on,
+title = "Rethinking LLMOps for fraud and AML: Building a compliance-grade LLM serving stack",
+author = "Naik, Prathamesh Vasudeo and Dintakurthi, Naresh and Wang, Yue",
+journal = "arXiv [cs.AI]",
+abstract = "Fraud detection and anti-money-laundering (AML) compliance are high-value domains for large language models (LLMs), but their serving requirements differ sharply from generic chat workloads. Compliance prompts are often prefix-heavy, schema-constrained, and evidence-rich, combining reusable policy instructions, risk taxonomies, transaction or document context, and short structured outputs such as JSON labels or risk factors. These properties make prefix reuse, KV-cache efficiency, runtime tuning, model orchestration, and output validation first-order systems concerns. This paper introduces a workload-aware LLMOps stack for fraud and AML workloads using self-hosted open-weight models such as Meta Llama and Alibaba Qwen. The stack combines vLLM-style runtime tuning, PagedAttention, Automatic Prefix Caching, multi-adapter serving, adapter and prompt-length-aware batching, sleep/wake lifecycle management, speculative decoding, and optional prefill/decode disaggregation. To avoid exposing institution-specific data, the reproducibility track converts public synthetic AML datasets, including IBM AML and SAML-D, into prefix-heavy compliance prompts with reusable policy text, transaction evidence, typology definitions, and schema-constrained outputs. We also incorporate an LLM-as-judge quality gate using deterministic compliance checks, reference metrics, expert-adjudicated calibration data where available, and multi-judge rubric scoring. Across public-synthetic AML workloads and controlled serving benchmarks, workload-aware tuning improved throughput from 612-650 to 3,600 requests/hour, reduced P99 latency from 31-38 seconds to 6.4-8.7 seconds, and increased GPU utilization from 12\% to 78\%. These results show that regulated LLM performance is a workload-design, serving-optimization, and quality-gating problem, not only a model-selection problem.",
+month =  "11~" # may,
+year =  2026,
+url = "http://arxiv.org/abs/2605.11232",
+archivePrefix = "arXiv",
+primaryClass = "cs.AI",
+keywords = "202607\_SAML-D\_ENDO",
+doi = "10.48550/arXiv.2605.11232"
+}
+
+@INPROCEEDINGS{Xiao2025-Meta-learningEnhancedExplainabilityOfLargeLanguageModelsForLow-sampleTransactionMonitoringInAMLCompliance-..-ba,
+title = "Meta-learning enhanced explainability of large language models for low-sample transaction monitoring in AML compliance",
+author = "Xiao, Xiaojun and Zhang, Qinghe and Wang, Zhuqi",
+booktitle = "Proceedings of the 2025 International Conference on Artificial Intelligence and Digital Finance",
+publisher = "ACM",
+address = "New York, NY, USA",
+pages = "93-98",
+abstract = "In the atmosphere of the strict regulation of finance industry, AML compliance imposes higher demands on interpretability and identification attention of transaction monitoring systems under low-sample scenario, while the current rule-based systems have the limitation of data shortage and diversiform behavior patterns. Towards this end, in this work we introduce a novel and interpretable large language model framework Meta-XAML, enhanced by meta-learning, for more intelligent and transparent AML transaction monitoring in low-shot setting. On the one hand, the task adaptive meta-learner is capable of dynamically adapting the model parameters to the heterogeneity of customer behavior and trans-jurisdictional differences. Secondly, the attribution-guided interpretation module makes attention aligned with the causal mask mechanism of Shapley value, to achieve legally traceable interpretation for high-risk transactions. Furthermore, the model also formulates the objective of prototype constraint contrast learning for better semantic alignment and more robust expression under few shots. By jointly optimizing multiple objectives loss functions, the entire model is forced to be optimized to ensure: the classification accuracy, interpretation credibility, and cross-domain generalization ability. Experiments on the AML trading dataset demonstrate that Meta-XAML achieves 8.6\% F1-score gain over the state-of-the-art competitors.",
+month =  "27~" # jun,
+year =  2025,
+url = "http://dx.doi.org/10.1145/3764727.3764744",
+keywords = "202607\_SAML-D\_ENDO",
+doi = "10.1145/3764727.3764744"
+}
+
+@ARTICLE{Chen2026-TransXionAHigh-fidelityGraphBenchmarkForRealisticAnti-MoneyLaundering-..-yh,
+title = "TransXion: A high-fidelity graph benchmark for realistic Anti-Money Laundering",
+author = "Chen, Keyang and Jiang, Mingxuan and Zhao, Yongsheng and Li, Zeping and Chen, Zaiyuan and Luo, Weiqi and Li, Zhixin and Liu, Sen and Jing, Yinan and Ye, Guangnan and Wu, Xihong and Chai, Hongfeng",
+journal = "arXiv [cs.LG]",
+abstract = "Money laundering poses severe risks to global financial systems, driving the widespread adoption of machine learning for transaction monitoring. However, progress remains stifled by the lack of realistic benchmarks. Existing transaction-graph datasets suffer from two pervasive limitations: (i) they provide sparse node-level semantics beyond anonymized identifiers, and (ii) they rely on template-driven anomaly injection, which biases benchmarks toward static structural motifs and yields overly optimistic assessments of model robustness. We propose TransXion, a benchmark ecosystem for Anti-Money Laundering (AML) research that integrates profile-aware simulation of normal activity with stochastic, non-template synthesis of illicit subgraphs.TransXion jointly models persistent entity profiles and conditional transaction behavior, enabling evaluation of ``out-of-character'' anomalies where observed activity contradicts an entity's socio-economic context. The resulting dataset comprises approximately 3 million transactions among 50,000 entities, each endowed with rich demographic and behavioral attributes. Empirical analyses show that TransXion reproduces key structural properties of payment networks, including heavy-tailed activity distributions and localized subgraph structure. Across a diverse array of detection models spanning multiple algorithmic paradigms, TransXion yields substantially lower detection performance than widely used benchmarks, demonstrating increased difficulty and realism. TransXion provides a more faithful testbed for developing context-aware and robust AML detection methods. The dataset and code are publicly available at https://github.com/chaos-max/TransXion.",
+month =  "19~" # apr,
+year =  2026,
+url = "http://arxiv.org/abs/2604.17420",
+archivePrefix = "arXiv",
+primaryClass = "cs.LG",
+keywords = "202607\_SAML-D\_ENDO",
+doi = "10.48550/arXiv.2604.17420"
+}
+
+@INPROCEEDINGS{Mittal2026-AnExplainableDataLeakage-resistantEnsembleLearningApproachForAnti-moneyLaundering-..-sh,
+title = "An explainable data leakage-resistant ensemble learning approach for anti-money laundering",
+author = "Mittal, Arpit and Gupta, Anchal",
+booktitle = "2026 8th International Conference on Intelligent Sustainable Systems (ICISS)",
+publisher = "IEEE",
+pages = "1185-1191",
+month =  "4~" # mar,
+year =  2026,
+url = "https://ieeexplore.ieee.org/abstract/document/11453936/?casa_token=OApdE4c1CdEAAAAA:VZNVtCmARYehl1yUQh5Nv2bHhxqD3ai1OUPnaIIoB9_w1QHXYQIYwQEMR1wf_yHizpziLQoZyHpk",
+keywords = "202607\_SAML-D\_ENDO",
+doi = "10.1109/iciss67859.2026.11453936"
+}
+
+@INPROCEEDINGS{Meshram2026-ArtificialIntelligence-basedAnti-moneyLaunderingSolutionsEnhancingDetectionAccuracyInHigh-volumeFinancialData-..-yv,
+title = "Artificial intelligence-based anti-money laundering solutions: Enhancing detection accuracy in high-volume financial data",
+author = "Meshram, Amit Kumar and Sikarwar, Vikrant",
+booktitle = "2026 14th International Symposium on Digital Forensics and Security (ISDFS)",
+publisher = "IEEE",
+pages = "1-6",
+month =  "19~" # mar,
+year =  2026,
+url = "https://ieeexplore.ieee.org/abstract/document/11458991/?casa_token=w_1zayotxeYAAAAA:Z4V3T9iXcvBCdQYvGK1kTk7DF8jpKd1P1j786bsc7h_t1LntsKeGTHTP5iGCBT7z8lGjeY5bFG9p",
+keywords = "202607\_SAML-D\_ENDO",
+doi = "10.1109/isdfs69419.2026.11458991"
+}
+
+@ARTICLE{Jing2024-ACustomerLevelFraudulentActivityDetectionBenchmarkForEnhancingMachineLearningModelResearchAndEvaluation-..-ue,
+title = "A customer level fraudulent activity detection benchmark for enhancing machine learning model research and evaluation",
+author = "Jing, Phoebe and Gao, Yijing and Zeng, Xianlong",
+journal = "arXiv [cs.LG]",
+abstract = "In the field of fraud detection, the availability of comprehensive and privacy-compliant datasets is crucial for advancing machine learning research and developing effective anti-fraud systems. Traditional datasets often focus on transaction-level information, which, while useful, overlooks the broader context of customer behavior patterns that are essential for detecting sophisticated fraud schemes. The scarcity of such data, primarily due to privacy concerns, significantly hampers the development and testing of predictive models that can operate effectively at the customer level. Addressing this gap, our study introduces a benchmark that contains structured datasets specifically designed for customer-level fraud detection. The benchmark not only adheres to strict privacy guidelines to ensure user confidentiality but also provides a rich source of information by encapsulating customer-centric features. We have developed the benchmark that allows for the comprehensive evaluation of various machine learning models, facilitating a deeper understanding of their strengths and weaknesses in predicting fraudulent activities. Through this work, we seek to bridge the existing gap in data availability, offering researchers and practitioners a valuable resource that empowers the development of next-generation fraud detection techniques.",
+month =  "23~" # apr,
+year =  2024,
+url = "http://arxiv.org/abs/2404.14746",
+archivePrefix = "arXiv",
+primaryClass = "cs.LG",
+keywords = "202607\_SAML-D\_ENDO",
+doi = "10.48550/arXiv.2404.14746"
+}
+
 @ARTICLE{Warr2000-FearOfCrimeInTheUnitedStatesAvenuesForResearchAndPolicy-..-qk,
 title = "Fear of crime in the United States: Avenues for research and policy",
 author = "Warr, Mark",
